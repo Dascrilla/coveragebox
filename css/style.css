@@ -1,0 +1,141 @@
+body {
+        padding-top: 20px;
+        padding-bottom: 40px;
+        background-image: "img/cream_dust.png";
+      }
+
+
+      }
+      
+      .masthead-narrow {
+       margin: 0 auto;
+        max-width: 700px;
+      }
+
+      /* Custom container */
+    
+      .container-narrow > hr {
+        margin: 30px 0;
+      }
+
+      /* Main marketing message and sign up button */
+      .jumbotron {
+        margin: 60px 0;
+   		margin-right: auto;
+      	margin-left: auto;
+        text-align: center;
+        max-width: 700px;
+      }
+      
+      .jumbotron h1 {
+        font-size: 72px;
+        line-height: 1;
+      }
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 10px 8px;
+      }
+      
+      .form-search {
+      	max-width: 350px;
+      	margin-right: auto;
+      	margin-left: auto;  
+      }
+
+      .fluid-row{
+        text-align: center;
+      }
+
+      .nav-container{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+
+
+      }
+      
+      .input-home{
+      max-height: 100px;
+      }
+   
+      /* Supporting marketing content */
+      .marketing {
+      line-height: normal;
+      text-align: center;
+       margin-right: auto;
+        margin-left: auto;
+     
+      }
+
+      .marketing p + h4 {
+        margin-top: 15px;
+        line-height: normal; 
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+      }
+
+      
+      .login-user-info {
+  float: right;
+  width: auto;
+  line-height: 13px;
+  margin-top: 7px;
+  min-width: 180px;
+  }
+
+.logged-user-name {
+  color: #3A3737;
+  float: left;
+  font-size: 20px;
+  height: auto;
+  margin-right: 5px;
+  margin-top: 10px;
+  width: auto;
+}
+
+
+.list {
+  min-height: 600px;
+}
+
+.mega-list {
+
+height: 1000px;
+}
+
+.google {
+  min-height: 600px;  
+}
+
+.footer {
+  clear: both;
+  padding-top: 50px;
+  text-align: center;
+
+}
+
+.icon-wrap{
+  margin-left: 15px;
+
+}
+
+.trash{
+	background: url("../img/delete.png") repeat scroll 0 0 transparent;
+    float: left;
+    height: 25px;
+    width: 25px;
+}
+
+.new{
+  width: 400px;
+}
+
+
+.new-form{
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+}
+

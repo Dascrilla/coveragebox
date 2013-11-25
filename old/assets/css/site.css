@@ -1,0 +1,484 @@
+.invalid_cred {
+    color: #B94A48;
+}
+.et_wel_blck {
+    background-color: rgba(75, 75, 75, 0.41);
+    border-radius: 6px 6px 6px 6px;
+    color: inherit;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 60px;
+    width: 60%;
+}
+
+.et_wel_blck h1 {
+    color: rgba(255, 255, 255, 0.66);
+    font-size: 60px;
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+.modal_pop_outer_div {
+    position: absolute; float: left; z-index: 9999; clear: both; width: 100%;
+}
+
+#login_modal {
+    background-clip: padding-box;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+    margin: 0 auto;
+    outline: medium none;
+    position: relative !important;
+    top: 50%;
+    left:0% !important;
+    width: 939px;
+    z-index: 1050;
+}
+
+#login_modal .modal-body {
+	overflow-y: hidden; 
+}
+
+#login_modal .form-horizontal .control-label {
+	text-align: left;
+}
+
+.popup_outer_div {
+	background-color:#D3D7DB;
+	border-radius:5px;
+	float:left;
+	margin-right: 25px;
+	height: 362px;
+	padding: 10px;
+    width: 395px;
+}
+
+#login_modal .form-horizontal .controls {
+	margin-left: 154px;
+}
+
+.form_buttons {
+	margin: 65px auto 0;
+    width: 196px;
+}
+
+.fbreg {
+	background-color:#D3D7DB;width:400px;border-radius:5px;
+}
+
+
+.fbreg iframe {
+	border:none;width:370px !important;margin:18px;
+}
+
+.clearFloat {
+	clear:both;
+}  
+
+.floatRight {
+	float: right;
+}
+
+.fb_register_img {
+	cursor: pointer;
+    margin-top: 22px;	
+    margin-left: 40px;
+}
+
+.fbpic {
+	height: 29px;
+    margin-top: 2px;
+}
+
+.fbname {
+	float:left;margin-right:5px;margin-top:12px;color:#FFF;font-size:15px;
+}
+
+.authenticate {
+	margin-top: 5px;
+}
+a:hover.authenticate { background-position:0 -310px;}
+
+
+.ajax_busy {
+	display: none;float:left;
+}
+
+.fbloginicon {
+	cursor: pointer;
+}
+
+.auth_popup {
+	display: none;
+}
+
+.profile_pic {
+	float: left;
+}
+
+.profile_pic img{
+	height: 33px;
+    width: 33px;
+}
+
+.login_user_info {
+	float: right;
+    width: auto;
+    line-height: 13px;
+}
+
+.logged_user_name {
+	color: #000000;
+    float: left;
+    font-size: 20px;
+    height: auto;
+    margin-right: 5px;
+    padding-top: 12px;
+    width: auto;
+}
+
+.profile_info {
+	margin-left: 5px;
+	float: left;	
+}
+
+.log_out {
+	cursor: pointer;
+}
+
+.navbar-inverse .navbar-inner {
+    background-color: #1D4663;
+    background-image: -moz-linear-gradient(center top , #1D4663, #1D4663);
+    background-repeat: repeat-x;
+    border-color: #1D4663;
+}
+
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus {
+     background-color: #173244;
+}
+
+.login_user_info .thumbnail {
+    padding: 2px;
+}
+
+#drop3 {
+    background-color: transparent !important;
+}
+
+.dropdown-menu {
+    background-color: #2C3E3E;
+}
+
+.dropdown-menu li > a {
+    color:#FFF;
+    font-size: 16px;
+}
+
+.navbar .nav > li > .dropdown-menu:after {
+     border-bottom: 6px solid #2C3E3E;
+}
+
+.logged_user_name a {
+    text-decoration: none;
+    color:inherit;
+}
+
+/* profile page css */
+
+.profile_container { 
+    background-color: rgba(75, 75, 75, 0.41);
+    border-radius: 6px 6px 6px 6px;
+    color: inherit;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 10px 10px 25px;
+    width: 89%;
+}
+
+.profile_name {
+    font-size: 30px;
+}
+
+.inner_container {
+    background-color: rgba(75, 75, 75, 0.41);
+    border-radius: 6px 6px 6px 6px;
+    color: inherit;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 20px;
+    width: 91%;
+}
+
+.pic {
+    float: left;
+}
+
+.fbicon {
+    float: right;
+}
+
+.sub_content {
+    margin-left: 15px;
+    float: left;
+    font-size: 34px;
+    padding-top: 5px;
+}
+
+.help-inline {
+    display: none;
+}
+
+/* Invite friends css */
+
+.invite ul {
+    overflow: auto;
+    list-style: none outside none;
+}
+
+.invite ul li {
+    -moz-user-select: none;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    float: left;
+    margin: 0 15px 15px 0;
+    padding: 5px;
+    position: relative;
+    width: 239px;
+}
+
+.invite ul li img {
+    float: left;
+    height: 50px;
+    width: 50px;
+}
+
+.invite ul li p {
+    font-size: 15px;
+    line-height: 17px;
+    padding: 8px 22px 0 60px;
+}
+
+.invite ul li i {
+    color: #454545;
+    font-size: 2rem;
+    position: absolute;
+    right: 5px;
+    top: 20px;
+}
+
+.invite ul li.selected {
+    background: none repeat scroll 0 0 #437CA5;
+    border: 2px solid #437CA5;
+}
+
+.invite ul li.selected i {
+    color: #437CA5;
+}
+
+
+.connect-btn,.connect-btn:hover {
+    background: -moz-linear-gradient(#3F789E, #346383) repeat scroll 0 0 transparent;
+    border: 1px solid #1D3D53;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.4), 1px 1px 0 0 rgba(255, 255, 255, 0.2) inset;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 400;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 15px;
+    text-shadow: 0 -1px 0 #214865;
+    float: right;
+    margin-top: 13px;
+    text-decoration: none;
+}
+
+.title {
+    float: left;
+    width: 520px;
+}
+
+.invite_form {
+    float: right;
+}
+
+/* infinite ajax scroll */
+@CHARSET "UTF-8";
+
+.ias_loader {
+    text-align:center;
+    margin: 5px 0;
+}
+
+.navigation {
+    display: none;
+}
+@media (min-width: 1200px) {
+    .friend_desktop {
+        clear: both;
+    }
+}
+
+@media (min-width: 729px) and (max-width: 1183px) {
+    .friend_minidesktop {
+        clear: both;
+    }
+}
+
+
+
+/* events section */
+
+.events_main_container { 
+    background-color: rgba(75, 75, 75, 0.41);
+    border-radius: 6px 6px 6px 6px;
+    color: inherit;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 10px 10px 25px;
+    width: 89%;
+    overflow: hidden;
+}
+
+.events_container {
+    background-color: #C7C7C7;
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    padding: 0 23px 23px;
+    width: 76%;
+}
+
+.events {
+    background-color: #9A9DA2;
+    display: block;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    position: relative;
+    width: 364px;
+}
+
+.event_location {
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 16px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: center;
+    width: 180px;
+}
+
+.event_title {
+    border-radius: 5px 5px 0 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 18px;
+    margin: 0;
+    padding: 8px 14px;
+}
+
+.leftContent {
+    float: left;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5px;
+    width: 150px;
+}
+
+.rightContent {
+    float: left;
+}
+
+.events.left .arrow {
+    border-left-color:#9A9DA2;
+}
+
+.events.right .arrow {
+    border-right-color:#9A9DA2;
+}
+
+.event_holder {
+    float: left;
+    margin-right: 15px;
+    margin-top: 13px;
+}
+
+.filter_name {
+    background-color: #969694;
+    border-radius: 7px 7px 7px 7px;
+    font-weight: bold;
+    height: 41px;
+    margin-bottom: 20px;
+    padding: 17px 5px 5px;
+    text-align: center;
+    width: 179px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.event_filters {
+    float: left;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.todays_date {
+    background-color: #E1E1E1;
+    border-radius: 0 0 5px 5px;
+    margin-bottom: 43px;
+    margin-left: 23px;
+    margin-top: -13px;
+    padding: 5px;
+    width: 185px;
+}
+
+.todays_date .weekday {
+    font-size: 21px;
+    line-height: 17px;
+    padding-left: 13px;
+}
+
+.todays_date .month {
+    font-size: 23px;
+    line-height: 20px;
+}
+.event_filters .selected {
+    background-color: #C7C7C7;
+    border-radius: 0 7px 7px 0;
+    margin-left: 0px;
+}
+
+.rightContent img {
+    width: 180px;
+    height: 112px;
+}
+
+.right_event_cnt {
+    margin-top: 50px;
+}
+
+.left_event_cnt {
+    margin-top: -30px;
+}

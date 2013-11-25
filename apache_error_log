@@ -1,0 +1,22 @@
+[Sat Mar 09 13:55:01 2013] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 09 13:55:01 2013] [notice] Digest: done
+[Sat Mar 09 13:55:01 2013] [notice] Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8r DAV/2 PHP/5.4.4 configured -- resuming normal operations
+[Sun Apr 21 12:24:20 2013] [notice] caught SIGTERM, shutting down
+[Sun Jul 21 13:05:18 2013] [notice] Digest: generating secret for digest authentication ...
+[Sun Jul 21 13:05:18 2013] [notice] Digest: done
+[Sun Jul 21 13:05:18 2013] [warn] pid file /Applications/MAMP/Library/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jul 21 13:05:18 2013] [notice] Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8r DAV/2 PHP/5.4.4 configured -- resuming normal operations
+[Sun Jul 21 13:07:16 2013] [notice] caught SIGTERM, shutting down
+[Thu Aug 15 21:49:10 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Aug 15 21:49:10 2013] [notice] Digest: done
+[Thu Aug 15 21:49:12 2013] [notice] Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8r DAV/2 PHP/5.4.4 configured -- resuming normal operations
+[Tue Sep 10 00:34:23 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Sep 10 00:34:23 2013] [notice] Digest: done
+[Tue Sep 10 00:34:23 2013] [warn] pid file /Applications/MAMP/Library/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 10 00:34:26 2013] [notice] Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8r DAV/2 PHP/5.4.4 configured -- resuming normal operations
+[Sat Sep 21 10:59:53 2013] [notice] caught SIGTERM, shutting down
+[Thu Oct 24 23:19:51 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 24 23:19:51 2013] [notice] Digest: done
+[Thu Oct 24 23:19:51 2013] [warn] pid file /Applications/MAMP/Library/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 24 23:19:55 2013] [notice] Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8r DAV/2 PHP/5.4.4 configured -- resuming normal operations
+[Sun Oct 27 16:25:23 2013] [notice] caught SIGTERM, shutting down
